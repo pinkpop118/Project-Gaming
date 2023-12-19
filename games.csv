@@ -1,0 +1,20 @@
+Game_ID,Game_name,Release_date,Publisher_ID,Genre_ID,Overall_rating,Price
+GA1,Grand Theft Auto V,17/09/2013,PU1,GE5,,60
+GA2,Red Dead Redemption 2,26/10/2023,PU1,GE5,,60
+GA3,The Sims 4,02/09/2014,PU5,GE2,,25
+GA4,Just Dance 3,07/10/2011,PU2,GE8,,23
+GA5,Assassin's Creed III,30/10/2012,PU2,GE5,,70
+GA6,Fall Guys,04/08/2020,PU6,GE7,,20
+GA7,Super Mario Bros.,13/09/1985,PU7,GE7,,24
+GA8,Minecraft,18/11/2011,PU8,GE3,,10.99
+GA9,FIFA 20,27/09/2019,PU5,GE6,,35
+GA10,Tetris (EA),12/09/2006,PU5,GE8,,11.99
+GA11,The Walking Dead,20/11/2012,PU9,GE1,,15.99
+GA12,Borderlands 2,18/09/2012,PU10,GE9,,50
+GA13,7 Days to die,13/12/2013,PU9,GE3,,11.49
+GA14,Cities Skylines,10/03/2015,PU11,GE2,,45.99
+GA15,Call of Duty: Modern warfare 2,28/10/2022,PU3,GE9,,65
+GA16,World of Warcraft,23/11/2004,PU3,GE4,,25.99
+GA17,Dark Souls 3,24/03/2016,PU4,GE4,,40.99
+GA18,UFC 4,14/08/2020,PU5,GE6,,45.99
+GA19,Resident Evil,22/03/1996,P12,GE1,,26.5
